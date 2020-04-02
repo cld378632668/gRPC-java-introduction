@@ -6,6 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="gRPC-java-introduction" />
+        <module name="gRPC-client-introduction" />
         <module name="grpc-java-test" />
       </profile>
     </annotationProcessing>
